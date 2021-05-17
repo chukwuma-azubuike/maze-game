@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chukwuma-azubuike/maze-game/issues"
   },
-  "homepage": "https://github.com/chukwuma-azubuike/maze-game#readme"
+  "homepage": "https://github.com/chukwuma-azubuike/maze-game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
